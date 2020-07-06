@@ -1,0 +1,73 @@
+/*
+ *  @version 1.0.1
+ *  @author Trejocode - Sergio
+ *  @description Base de colores compatible con WCAG AA
+*/
+
+$primary:       #3E816D;
+$primary-alt:   #288091;
+$secondary:     #263d54;
+$secondary-alt: #516376;
+$success:       #27ae60;
+$warning:       #f39c12;
+$danger:        #c0392b;
+$info:          #258395;
+
+$black:     #262626;
+$white:     #FFFFFF;
+$gray:      #6c6c6c;  
+$darkgray:  #4b4b4b;
+
+$darkBlue:  #263d54;
+$darkAqua:  #258395;
+$aqua:      #33c8a3;
+$lightBg:   #ebf3f5;
+
+
+.color-primary {
+    color: $primary;
+}
+
+.color-primary-alt {
+    color: $primary-alt;
+}
+
+.color-secondary {
+    color: $secondary;
+}
+
+.color-secondary-alt {
+    color: $secondary-alt;
+}
+
+.color-success {
+    color: $success;
+}
+
+.color-warning {
+    color: $warning;
+}
+
+.color-danger {
+    color: $danger;
+}
+
+.color-info {
+    color: $info;
+}
+
+.color-gray {
+    color: $gray;
+}
+
+.color-darkgray {
+    color: $darkgray;
+}
+
+.color-black {
+    color: $black;
+}
+
+.color-white {
+    color: $white;
+}
